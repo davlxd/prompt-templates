@@ -1,5 +1,5 @@
 NAME: generate xUnit cases
-TEMPLATE: generate unit test cases for below code with xUnit and FluentAssertions, give me full complete code please.
+TPL: generate unit test cases for below code with xUnit and FluentAssertions, give me full complete code please.
 
 ```
 
@@ -9,7 +9,7 @@ TEMPLATE: generate unit test cases for below code with xUnit and FluentAssertion
 
 
 NAME: sentiment classificiation
-TEMPLATE: Classify the text into neutral, negative or positive.
+TPL: Classify the text into neutral, negative or positive.
 Text: I think the vacation is okay.
 Sentiment:
 
