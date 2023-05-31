@@ -1,0 +1,17 @@
+NAME: generate xUnit cases
+TEMPLATE: generate unit test cases for below code with xUnit and FluentAssertions, give me full complete code please.
+
+```
+
+```
+
+
+
+
+NAME: sentiment classificiation
+TEMPLATE: Classify the text into neutral, negative or positive.
+Text: I think the vacation is okay.
+Sentiment:
+
+
+
