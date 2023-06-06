@@ -1,9 +1,21 @@
-NAME: generate xUnit cases
+NAME: generate xUnit test cases
 TPL: generate unit test cases for below code with xUnit and FluentAssertions, give me full complete code please.
 
 ```
 
 ```
+
+
+
+
+NAME: for code await my further instruction
+TPL: I have below source code, you decide what code it is,
+
+```
+
+```
+
+Await my further instructions
 
 
 
